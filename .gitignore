@@ -1,0 +1,14 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+*.py[cod]
+venv/
+
+# VSCode
+settings.json
+
+# Misc.
+*.csv
